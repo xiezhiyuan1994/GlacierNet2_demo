@@ -3,6 +3,9 @@
 ## Please download and add the topotoolbox to the path, such as: (addpath(genpath('topotoolbox path'));
 ###### The topotoolbox can be download from: https://github.com/wschwanghart/topotoolbox
 
+## Also, please download the demo data from: 
+
+
 ## main script files includes
 ###### 1) CNN_processing_demo.m
 ###### 2) GlacierNet2_terminus_impoving_SCAZ_estimation_demo.m
